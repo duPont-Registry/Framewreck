@@ -1,2 +1,98 @@
-// CSS for naming resizing selectors for use with
+/* CSS for naming resizing selectors for use with
 // jQuery file resizer.js.
+// Developed by: Jason Romero | codenamejason
+// Date: 11/12/2015
+// Description: CSS for naming resizing selectors for use with
+// jQuery file resizer.js.
+*/
+/*=====================================================================*/
+/* Use the following section for defaults */
+/**/
+
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 1440px max width */
+@media only screen and (max-width: 1440px)
+{
+/**/  
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen.*/
+/* Only affects 1280px max width */
+@media only screen and (max-width: 1280px)
+{
+/**/  
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 1076px max width */
+@media only screen and (max-width: 1076px)
+{
+/**/  
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 900px max width */
+@media only screen and (max-width: 900px)
+{
+/**/  
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 768px max width */
+@media only screen and (max-width: 768px)
+{
+ /**/ 
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 640px max width */
+@media only screen and (max-width: 640px)
+{
+/**/  
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 568px max width */
+@media only screen and (max-width: 568px)
+{
+/**/  
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 480px max width */
+@media only screen and (max-width: 480px)
+{
+/**/
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 320px max width */
+@media only screen and (max-width: 320px)
+{
+ /**/ 
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
+/* Only affects 2406px max width */
+@media only screen and (max-width: 240px)
+{
+/**/  
+}
+
+
+/* */
+
+
+
+
