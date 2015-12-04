@@ -76,6 +76,14 @@
 /*=====================================================================*/
 /* Screen size with max width of (XXXpx)*/
 /* where X is the width of the screen. */
+/* Only affects 414px max width */
+@media only screen and (max-width: 414px)
+{
+/**/
+}
+/*=====================================================================*/
+/* Screen size with max width of (XXXpx)*/
+/* where X is the width of the screen. */
 /* Only affects 320px max width */
 @media only screen and (max-width: 320px)
 {
